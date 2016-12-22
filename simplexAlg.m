@@ -3,9 +3,9 @@ function [] = simplexAlg(type, A,b,c, tableau, knn)
 %   
 %   Simplex Algorithm takes A, b, and c, TYPE, and TABLEAU
 %
-%   #############################
-%   ### ARGUMENT RESTRICTIONS ###
-%   #############################
+%   #################
+%   ### ARGUMENTS ###
+%   #################
 %
 %   Standard form:
 %       type= 1
